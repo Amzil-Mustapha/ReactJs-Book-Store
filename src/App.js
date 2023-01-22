@@ -4,7 +4,7 @@ import BookList from './components/BookList'
 function App() {
   return (
     <div className="App">
-      <h1>Books Store - Free</h1>
+      <h1 className='title'>Books Store</h1>
       <BookList/>
     </div>
   );
